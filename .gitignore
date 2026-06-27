@@ -1,0 +1,15 @@
+*..sass
+*..scss
+*..css
+*..js
+
+*.DS_Store
+*/.editorconfig
+*/.edit
+.idea
+
+node_modules/
+
+# aica agent
+.ai-log/
+ai-patch-*.txt
