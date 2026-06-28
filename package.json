@@ -1,6 +1,6 @@
 {
     "name": "aica-cli",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "AI-ассистент мост между LLM и локальным кодом",
     "type": "module",
     "bin": {
